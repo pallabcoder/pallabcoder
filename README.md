@@ -29,7 +29,7 @@
 <p>👨‍💻 Email ID - <a href="mailto:rockpallab700@gmail.com">rockpallab700@gmail.com</a></p>
 </li>
  <li>
-<p>👨‍💻 Email ID - <a href="https://webdesun.com">webdesun.com</a></p>
+<p>👨‍💻 website - <a href="https://webdesun.com">webdesun.com</a></p>
 </li>
 <li>
 <p>🎯 Goal: Join a creative Web Development startup</p>
